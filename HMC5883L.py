@@ -6,17 +6,22 @@ __author__     = "ChISL"
 __copyright__  = "TBD"
 __credits__    = ["Honeywell"]
 __license__    = "TBD"
-__version__    = "0.1"
+__version__    = "Version 0.1"
 __maintainer__ = "https://chisl.io"
 __email__      = "info@chisl.io"
 __status__     = "Test"
+
+#
+#   THIS FILE IS AUTOMATICALLY CREATED
+#    D O     N O T     M O D I F Y  !
+#
 
 from HMC5883L_constants import *
 
 # name:        HMC5883L
 # description: Surface-mount, multi-chip module designed for low-field magnetic sensing with a digital interface for applications such as lowcost compassing and magnetometry
 # manuf:       Honeywell
-# version:     0.1
+# version:     Version 0.1
 # url:         https://aerocontent.honeywell.com/aero/common/documents/myaerospacecatalog-documents/Defense_Brochures-documents/HMC5883L_3-Axis_Digital_Compass_IC.pdf
 # date:        2016-08-01
 
